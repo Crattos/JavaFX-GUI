@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GUIFX">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/GUIFX.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
